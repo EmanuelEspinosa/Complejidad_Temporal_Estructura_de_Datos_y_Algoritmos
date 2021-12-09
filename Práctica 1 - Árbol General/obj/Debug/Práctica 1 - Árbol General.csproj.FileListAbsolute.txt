@@ -1,0 +1,6 @@
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 1 - Árbol General\bin\Debug\Práctica 1 - Árbol General.exe.config
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 1 - Árbol General\bin\Debug\Práctica 1 - Árbol General.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 1 - Árbol General\bin\Debug\Práctica 1 - Árbol General.pdb
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 1 - Árbol General\obj\Debug\Práctica 1 - Árbol General.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 1 - Árbol General\obj\Debug\Práctica 1 - Árbol General.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 1 - Árbol General\obj\Debug\Práctica 1 - Árbol General.pdb

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Práctica 1 - Árbol General", "Práctica 1 - Árbol General\Práctica 1 - Árbol General.csproj", "{58F2B758-5005-4B3D-AF79-34B2545439FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Práctica 2 - Árbol Binario - Heap Binaria", "Práctica 2 - Árbol Binario - Heap Binaria\Práctica 2 - Árbol Binario - Heap Binaria.csproj", "{1502A2FB-CF45-45CD-B72D-76B4AA49482F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Práctica 3 - Árbol AVL", "Práctica 3 - Árbol AVL\Práctica 3 - Árbol AVL.csproj", "{520D3269-25D7-4001-87C9-52998D663805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Práctica 4 - Hashing", "Práctica 4 - Hashing\Práctica 4 - Hashing.csproj", "{11FA5617-83F2-40FD-82E0-82BF8B116AC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Práctica 7 - Grafos", "Práctica 7 - Grafos\Práctica 7 - Grafos.csproj", "{C476D45D-B757-4A3A-A891-DB11B25CE4F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F2B758-5005-4B3D-AF79-34B2545439FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F2B758-5005-4B3D-AF79-34B2545439FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F2B758-5005-4B3D-AF79-34B2545439FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F2B758-5005-4B3D-AF79-34B2545439FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1502A2FB-CF45-45CD-B72D-76B4AA49482F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1502A2FB-CF45-45CD-B72D-76B4AA49482F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1502A2FB-CF45-45CD-B72D-76B4AA49482F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1502A2FB-CF45-45CD-B72D-76B4AA49482F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520D3269-25D7-4001-87C9-52998D663805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520D3269-25D7-4001-87C9-52998D663805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520D3269-25D7-4001-87C9-52998D663805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520D3269-25D7-4001-87C9-52998D663805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FA5617-83F2-40FD-82E0-82BF8B116AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FA5617-83F2-40FD-82E0-82BF8B116AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FA5617-83F2-40FD-82E0-82BF8B116AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FA5617-83F2-40FD-82E0-82BF8B116AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C476D45D-B757-4A3A-A891-DB11B25CE4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C476D45D-B757-4A3A-A891-DB11B25CE4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C476D45D-B757-4A3A-A891-DB11B25CE4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C476D45D-B757-4A3A-A891-DB11B25CE4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

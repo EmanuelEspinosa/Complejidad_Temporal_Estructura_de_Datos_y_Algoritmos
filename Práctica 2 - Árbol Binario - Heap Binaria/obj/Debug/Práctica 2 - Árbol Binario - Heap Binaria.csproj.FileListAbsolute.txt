@@ -1,0 +1,6 @@
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 2 - Árbol Binario - Heap Binaria\bin\Debug\Práctica 2 - Árbol Binario - Heap Binaria.exe.config
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 2 - Árbol Binario - Heap Binaria\bin\Debug\Práctica 2 - Árbol Binario - Heap Binaria.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 2 - Árbol Binario - Heap Binaria\bin\Debug\Práctica 2 - Árbol Binario - Heap Binaria.pdb
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 2 - Árbol Binario - Heap Binaria\obj\Debug\Práctica 2 - Árbol Binario - Heap Binaria.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 2 - Árbol Binario - Heap Binaria\obj\Debug\Práctica 2 - Árbol Binario - Heap Binaria.exe
+C:\Users\Emanuel Espinosa\Documents\SharpDevelop Projects\Prácticas CTEDyA\Práctica 2 - Árbol Binario - Heap Binaria\obj\Debug\Práctica 2 - Árbol Binario - Heap Binaria.pdb
